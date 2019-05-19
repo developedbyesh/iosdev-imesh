@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>752505972379-mm3vmoik3v6k8rvkpqor9n2so80dpvie.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.752505972379-mm3vmoik3v6k8rvkpqor9n2so80dpvie</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAamhFOo2armbbZzqllGsP36wB53fSxyjU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>752505972379</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.npun.iosdev-imesh</string>
+	<key>PROJECT_ID</key>
+	<string>auth-nibm-ios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>auth-nibm-ios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:752505972379:ios:2bc21a13a2e989c7</string>
+	<key>DATABASE_URL</key>
+	<string>https://auth-nibm-ios.firebaseio.com</string>
+</dict>
+</plist>
